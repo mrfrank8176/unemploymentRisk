@@ -4,5 +4,4 @@ nbinteract
 matplotlib
 pandas
 geopandas
-gzip
 
