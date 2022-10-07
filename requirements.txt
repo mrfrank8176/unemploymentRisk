@@ -1,0 +1,8 @@
+numpy
+ipywidgets
+nbinteract
+matplotlib
+pandas
+geopandas
+gzip
+
