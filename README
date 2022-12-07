@@ -1,1 +1,3 @@
-This repository hosts unemployment risk data and an interactive demo.
+This repository hosts unemployment risk data using detailed unemployment statistics from each US state's unemployment benefits office. 
+This data includes the number of unemployment benefit recipients per month by most recent occupation (ie., Major SOC code).
+An interactive demo using this data is available at www.pitt.edu/~mrfrank/uiRiskDemo .
